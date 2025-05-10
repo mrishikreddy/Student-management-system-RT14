@@ -105,16 +105,6 @@ We welcome contributions to enhance the **Student Information Portal**! To contr
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
-**Ideas for Contributions**:
-- Add file I/O to save/load student records to/from a file.
-- Implement sorting by ID, name, or GPA.
-- Add input validation for fields like GPA (e.g., 0.0–4.0 range).
-- Create a GUI using a library like SDL or Qt.
-- Improve portability by removing `system("cls")` or adding platform-specific clearing.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 - Built with ❤️ for academic management.
 - Thanks to the C programming community for inspiration and resources.
