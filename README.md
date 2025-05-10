@@ -95,14 +95,6 @@ The program uses a linked list (`struct node`) for dynamic storage. Each node ho
 - Notifies users if a student ID is not found during search, update, or deletion.
 - Handles invalid menu choices with an error message.
 
-## Contributing
-We welcome contributions to enhance the **Student Information Portal**! To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes and commit (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
 ## Acknowledgements
 - Built with ❤️ for academic management.
 - Thanks to the C programming community for inspiration and resources.
