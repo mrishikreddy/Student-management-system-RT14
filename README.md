@@ -52,7 +52,7 @@ To set up the **Student Information Portal**, follow these steps:
 Upon running the program, you'll be greeted with the main menu:
 ```
                 WELCOME TO STUDENT INFORMATION PORTAL
-                ---------------------------------
+                -------------------------------------
 
                 enter:
                 1 to add student information
