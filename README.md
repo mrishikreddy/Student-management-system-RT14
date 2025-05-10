@@ -7,8 +7,6 @@ Welcome to the **Student Information Portal**, a C-based console application des
 - [Installation](#installation)
 - [Usage](#usage)
 - [How It Works](#how-it-works)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Features
