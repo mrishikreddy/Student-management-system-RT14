@@ -1,6 +1,6 @@
-# Student Information Portal
+# Student Management System
 
-Welcome to the **Student Information Portal**, a C-based console application designed to manage student records efficiently. This project provides a user-friendly interface to add, search, update, delete, and display student information, as well as calculate the average GPA of all students. It's an ideal tool for academic institutions or anyone looking to organize student data in a simple yet effective way.
+Welcome to the **Student Management System**, a C-based console application designed to manage student records efficiently. This project provides a user-friendly interface to add, search, update, delete, and display student information, as well as calculate the average GPA of all students. It's an ideal tool for academic institutions or anyone looking to organize student data in a simple yet effective way.
 
 ## Table of Contents
 - [Features](#features)
