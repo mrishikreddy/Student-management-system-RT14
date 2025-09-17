@@ -24,7 +24,7 @@ To set up the **Student Information Portal**, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/student-information-portal.git
+   git clone https://github.com/mrishikreddy/Student-management-system-RT14.git
    cd student-information-portal
    ```
 
